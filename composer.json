@@ -1,0 +1,14 @@
+{
+    "name": "paulvl/icons",
+    "description": "Color icons for apps =)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Vidal",
+            "email": "iam@paulvl.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
